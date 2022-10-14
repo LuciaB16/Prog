@@ -3,6 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package boletin4;
+//version 1.0
 
 
 public class Boletin4 {
